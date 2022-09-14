@@ -1,0 +1,18 @@
+{
+  "name": "exercises",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "type": "module",
+  "author": "George Harrison",
+  "license": "MIT",
+  "description": "A JavaScript project for CMSI 3801 homework",
+  "dependencies": {
+    "mocha": "^10.0.0"
+  }
+}
